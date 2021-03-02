@@ -1,0 +1,24 @@
+
+*filtering SCAPY
+https://stackoverflow.com/questions/59914585/scapy-packet-filtering-from-an-ip-and-with-destination-port-23
+
+*scapy documents 
+https://scapy.readthedocs.io/en/latest/usage.html
+
+*list of ip from subnet 128.230.0.0/16
+https://ipinfo.io/ips/128.230.0.0/16
+
+* sniffing with promiscous mode explanation
+https://security.stackexchange.com/questions/90739/promiscuous-mode-and-packet-sniffing
+
+*man page of pcap
+https://www.tcpdump.org/manpages/pcap.3pcap.html
+
+*Telnet explanation
+https://he.wikipedia.org/wiki/Telnet
+
+*Telnet command line
+https://askubuntu.com/questions/1099768/how-to-use-telnet-client-in-ubuntu-18-04-terminal
+
+*install telnet on ubuntu
+https://www.howtoforge.com/how-to-install-and-use-telnet-on-ubuntu-1804/
