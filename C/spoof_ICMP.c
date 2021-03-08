@@ -106,7 +106,7 @@ int main ()
     // It will be copied to the response packet and used to map response to the request sent earlier.
     // Thus, it serves as a Transaction-ID when we need to make "ping"
     icmphdr.icmp_id = 18; // hai
-    icmphdr.icmp_code = 33;
+    icmphdr.icmp_code = 0;
     // Combine the packet 
     char packet[IP_MAXPACKET];
 
